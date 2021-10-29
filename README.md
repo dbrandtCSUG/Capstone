@@ -1,4 +1,4 @@
-# Capstone
+# Capstone Information
 This repository contains files pertaining to my Masters in Data Analytics Capstone Project
 at Colorado State University Global.
 
