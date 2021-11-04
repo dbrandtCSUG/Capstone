@@ -11,7 +11,7 @@ Files in the Repository
 * Combined_Data_Cleaned.xlsx - a Microsoft Excel file that contains the dataset analyzed for this project
 * Capstone_SAS_Code.pdf - a portable document format file that contains the SAS code
 * Capstone_SAS_Outputs.pdf - a portable document format file that contains screenshots of the SAS outputs
-* Capstone_Research_Project.pdf - my research paper on this topic
+* Capstone_Research_Project.pdf - a portable document format file of my research paper
 
 Notes
 ------
