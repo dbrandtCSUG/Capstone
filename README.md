@@ -1,6 +1,7 @@
 Capstone Information
 --------------------
-This repository contains files pertaining to my Masters in Data Analytics Capstone Project
+This repository contains files pertaining to my Capstone Project
+for my Masters in Data Analytics program
 at Colorado State University Global.
 
 The project is 'Impact of Weather on Ridership of the Chicago Transit Authority'
