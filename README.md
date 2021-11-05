@@ -15,7 +15,7 @@ Files in the Repository
 * Capstone_SAS_Code.pdf - a portable document format file that contains the SAS code
 * Capstone_SAS_Outputs.pdf - a portable document format file that contains screenshots of the SAS outputs
 * Capstone_Research_Project.pdf - a portable document format file of my research paper
-* Capstone_Slideshow.ppsx - a Microsoft PowerPoint slideshow of my capstone project
+* Capstone_Slideshow.ppsx - a Microsoft PowerPoint slideshow of my Capstone Project
 * Capstone_Slideshow_Speakernotes.pdf - a portable document format file that contains the speaker notes for the slideshow
 
 Notes
